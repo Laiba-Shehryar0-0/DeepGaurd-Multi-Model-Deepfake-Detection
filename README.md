@@ -151,7 +151,3 @@ DeepGuard/
 This project was developed for academic purposes at FCIT, International Islamic University, Islamabad.
 
 ---
-
-## Author
-
-**Noor Fatima** &mdash; [GitHub](https://github.com/noor-fati)
